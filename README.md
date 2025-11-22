@@ -1,5 +1,4 @@
-# nvm
-dont care about this :)
+#nvm
 ---
 # why?
 its just for discord :D
